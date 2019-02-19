@@ -11,6 +11,9 @@
 		DF7DDCDF221BDBB900ECAA76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF7DDCDE221BDBB900ECAA76 /* ViewController.swift */; };
 		DF7DDCE1221BDBBA00ECAA76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF7DDCE0221BDBBA00ECAA76 /* Assets.xcassets */; };
 		DF7DDCE4221BDBBA00ECAA76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF7DDCE2221BDBBA00ECAA76 /* Main.storyboard */; };
+		DF7DDCED221BEB6D00ECAA76 /* QuotesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF7DDCEC221BEB6D00ECAA76 /* QuotesViewController.swift */; };
+		DF7DDCEF221C111C00ECAA76 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF7DDCEE221C111C00ECAA76 /* Quote.swift */; };
+		DF7DDCF1221C203900ECAA76 /* EventMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF7DDCF0221C203900ECAA76 /* EventMonitor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +24,9 @@
 		DF7DDCE3221BDBBA00ECAA76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DF7DDCE5221BDBBA00ECAA76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DF7DDCE6221BDBBA00ECAA76 /* Quotes.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Quotes.entitlements; sourceTree = "<group>"; };
+		DF7DDCEC221BEB6D00ECAA76 /* QuotesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesViewController.swift; sourceTree = "<group>"; };
+		DF7DDCEE221C111C00ECAA76 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
+		DF7DDCF0221C203900ECAA76 /* EventMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventMonitor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				DF7DDCE2221BDBBA00ECAA76 /* Main.storyboard */,
 				DF7DDCE5221BDBBA00ECAA76 /* Info.plist */,
 				DF7DDCE6221BDBBA00ECAA76 /* Quotes.entitlements */,
+				DF7DDCEC221BEB6D00ECAA76 /* QuotesViewController.swift */,
+				DF7DDCEE221C111C00ECAA76 /* Quote.swift */,
+				DF7DDCF0221C203900ECAA76 /* EventMonitor.swift */,
 			);
 			path = Quotes;
 			sourceTree = "<group>";
@@ -133,7 +142,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF7DDCEF221C111C00ECAA76 /* Quote.swift in Sources */,
+				DF7DDCF1221C203900ECAA76 /* EventMonitor.swift in Sources */,
 				DF7DDCDF221BDBB900ECAA76 /* ViewController.swift in Sources */,
+				DF7DDCED221BEB6D00ECAA76 /* QuotesViewController.swift in Sources */,
 				DF7DDCDD221BDBB900ECAA76 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
