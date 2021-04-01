@@ -2,15 +2,20 @@
 //  ContentView.swift
 //  MenubarApp
 //
-//  Created by Linus on 20210402.
+//  Created by Bumseok on 20210402.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        VStack {
+            Text("Hello, world!")
+                .padding()
+            Button("Ok", action: {})
+                .padding()
+        }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
     }
 }
 

@@ -21,6 +21,7 @@
 		DF4D21C42616272E00B78386 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DF4D21C62616272E00B78386 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DF4D21C72616272E00B78386 /* MenubarApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MenubarApp.entitlements; sourceTree = "<group>"; };
+		DF4D21CE26162C4800B78386 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		DF4D21B12616272B00B78386 = {
 			isa = PBXGroup;
 			children = (
+				DF4D21CE26162C4800B78386 /* README.md */,
 				DF4D21BC2616272B00B78386 /* MenubarApp */,
 				DF4D21BB2616272B00B78386 /* Products */,
 			);
