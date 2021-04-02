@@ -13,3 +13,5 @@
 - [A menubar example with popover window using SwiftUI 2.0](https://www.reddit.com/r/SwiftUI/comments/hnfwuh/a_menubar_example_with_popover_window_using/)
     - https://github.com/zaferarican/menubarpopoverswiftui2/blob/master/MenuBarPopover/MenuBarPopoverApp.swift
     - https://www.reddit.com/r/SwiftUI/comments/hnfwuh/a_menubar_example_with_popover_window_using/fygojkd?utm_source=share&utm_medium=web2x&context=3
+
+2021-04-02 Xcode Version 12.4 (12D4e)
